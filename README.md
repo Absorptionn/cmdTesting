@@ -1,1 +1,5 @@
 # cmdTesting
+
+testing cmd 
+
+testing
